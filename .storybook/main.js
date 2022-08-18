@@ -1,5 +1,7 @@
-const stories = ['../src/*.stories.jsx']
-
+const stories = ['../src/*.stories.jsx'];
 module.exports = {
   stories,
-}
+  core: {
+    builder: 'webpack5'
+  }
+};
