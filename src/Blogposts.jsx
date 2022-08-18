@@ -9,7 +9,7 @@ export const Blogposts = () => (
       <h1>Read new Lorem and Ipsum posts!</h1>
       <Blogpost
         title='Subscribi butono clickum est'
-        text='Aliquam pharetra sollicitudin elit, et efficitur magna fermentum et. In hac habitasse platea dictumst.
+        text='Aliquam pharetracjkxvh sollicitudin elit, et efficitur magna fermentum et. In hac habitasse platea dictumst.
           Vestibulum nec condimentum justo. Phasellus urna libero, semper sit amet consectetur id, tempus ut risus. Nam
           cursus arcu vestibulum, egestas mi sit amet, volutpat purus. Aenean nisl velit, tempus aliquet fringilla at,
           fermentum eu mauris. Vestibulum scelerisque placerat felis, ac lobortis quam vehicula non. Aliquam dapibus mi
