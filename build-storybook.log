@@ -1,7 +1,7 @@
 info @storybook/react v6.5.9
 info 
-info => Cleaning outputDir: /var/folders/0_/4qxgkny12bl9rn4wj162m1y40000gp/T/chromatic--67365-F5D477BfGOyu
-(node:67397) DeprecationWarning: --static-dir CLI flag is deprecated, see:
+info => Cleaning outputDir: /var/folders/0_/4qxgkny12bl9rn4wj162m1y40000gp/T/chromatic--70577-vWyVKdk0rzAH
+(node:70592) DeprecationWarning: --static-dir CLI flag is deprecated, see:
 
 https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated---static-dir-cli-flag
 (Use `node --trace-deprecation ...` to show where the warning was created)
